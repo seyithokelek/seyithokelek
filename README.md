@@ -1,6 +1,4 @@
-Hi, I'm Seyit Hökelek!
-
-
+[![Hi, I'm Seyit Hökelek!](https://seyithokelek.github.io/)
 <p align='center'>
 </p>
 
